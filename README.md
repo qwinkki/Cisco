@@ -21,4 +21,4 @@ Work with:
  - encapsulation
  - dot1Q
 
-> <img width="985" height="650" alt="Снимок экрана 2026-05-01 в 02 29 40" src="https://github.com/user-attachments/assets/067dcf5d-e963-4569-9326-641180585549" />
+> <img width="1636" height="635" alt="Снимок экрана 2026-05-03 в 21 10 24" src="https://github.com/user-attachments/assets/7029d0d6-9d45-4ecc-8756-ad1af8551517" />
