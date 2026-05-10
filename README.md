@@ -12,7 +12,7 @@ Work with:
 > <img width="708" height="647" alt="schema" src="https://github.com/user-attachments/assets/f454e58f-3b22-415f-bb3a-d88a436a739e" />
 
 
-## ex2 (not finished)
+## ex2 
 Work with:
  - vlan
  - ssh
